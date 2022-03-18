@@ -136,9 +136,9 @@
 <hr>
 <h3>Connect with me :  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nitish-kumar-50a564205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shivam-rathore-731a6619b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/Nitishk60487582"><img src="https://img.shields.io/badge/twitter-1c9ceb?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.instagram.com/_niku_7827/"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/_shivam_rathore07_/"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <hr />
