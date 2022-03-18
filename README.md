@@ -6,11 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivamRathore07](https://github.com/ShivamRathore07)
 
-- 📝 I write articles on [https://medium.com/@nitishfea120784](https://medium.com/@nitishfea120784)
+- 📝 I write articles on [https://medium.com/@shivamrathoreji07](https://medium.com/@shivamrathoreji07)
 
 - 💬 Ask me about **Javascript , Data structure , Algorithm , HTML , CSS , Bootstrap , CLI-Bash.**
 
-- 📫 How to reach me LinkedIn **https://www.linkedin.com/in/nitish-kumar-50a564205/**
+- 📫 How to reach me LinkedIn **https://www.linkedin.com/in/shivam-rathore-731a6619b/**
 
 <hr />
 
