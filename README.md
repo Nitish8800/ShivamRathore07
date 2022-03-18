@@ -143,16 +143,16 @@
 
 <hr />
 <h3>  My Github Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
-<a href="https://github.com/Nitish8800/github-readme-activity-graph"><img alt="Nitish-Kumar-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nitish8800&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitish8800&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
+<a href="https://github.com/ShivamRathore07/github-readme-activity-graph"><img alt="Shivam-Rathore-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShivamRathore07&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivamRathore07&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Shivam Rathore" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish8800&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShivamRathore07&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Shivam Rathore" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitish8800&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamRathore07&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Shivam Rathore" /></p>
 
 <hr />
 
 <h3> Views and Followers </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitish8800&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish Kumar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivamRathore07&label=Profile%20views&color=0e75b6&style=flat" alt="Shivam Rathore" /> </p>
 
 <p align=""> <a href="https://www.linkedin.com/in/shivam-rathore-731a6619b/" target="blank"><img src="https://img.shields.io/twitter/follow/Nitishk60487582?logo=twitter&style=for-the-badge" alt="Nitishk60487582"/></a></p>
