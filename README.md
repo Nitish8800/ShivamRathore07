@@ -155,4 +155,4 @@
 <h3> Views and Followers </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitish8800&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish Kumar" /> </p>
 
-<p align=""> <a href="https://www.linkedin.com/in/shivam-rathore-731a6619b/" target="blank"><img src="https://img.shields.io/shivam/follow/Nitishk60487582?logo=twitter&style=for-the-badge" alt="Nitishk60487582"/></a></p>
+<p align=""> <a href="https://www.linkedin.com/in/shivam-rathore-731a6619b/" target="blank"><img src="https://img.shields.io/twitter/follow/Nitishk60487582?logo=twitter&style=for-the-badge" alt="Nitishk60487582"/></a></p>
