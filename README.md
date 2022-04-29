@@ -8,7 +8,7 @@
 
 - 📝 I write articles on [https://medium.com/@shivamrathoreji07](https://medium.com/@shivamrathoreji07)
 
-- 💬 Ask me about **Javascript , Data structure , Algorithm , HTML , CSS , Bootstrap , CLI-Bash.**
+- 💬 Ask me about **Javascript , HTML , CSS , React , Data structure & Algorithm , Bootstrap , Material-UI .**
 
 - 📫 How to reach me LinkedIn **https://www.linkedin.com/in/shivam-rathore-731a6619b/**
 
