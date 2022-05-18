@@ -53,7 +53,13 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
 
 </td>
+ <td width="15%" align="center">
 
+<span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+
+</td>
 
 <td width="15%" align="center">
 
@@ -78,15 +84,6 @@
 
 <span>Mongodb</span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-
-</td>
-  
-  
- <td width="15%" align="center">
-
-<span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
 
 </td>
  <td width="15%" align="center">
