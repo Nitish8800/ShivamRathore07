@@ -8,7 +8,7 @@
 
 - 📝 I write articles on [https://medium.com/@shivamrathoreji07](https://medium.com/@shivamrathoreji07)
 
-- 💬 Ask me about **Javascript , HTML , CSS , React , Data structure & Algorithm , Bootstrap , Material-UI .**
+- 💬 Ask me about **Javascript , HTML , CSS , React ,Redux, Data structure & Algorithm , Bootstrap , Material-UI .**
 
 - 📫 How to reach me LinkedIn **https://www.linkedin.com/in/shivam-rathore-731a6619b/**
 
@@ -35,7 +35,7 @@
 
 <span>𝗖𝗦𝗦𝟯</span><br><br>
 
-<img height="44px" src="https://cdn.svgporn.com/logos/css-3.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
 
 </td>
 
