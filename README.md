@@ -60,7 +60,8 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
 
 </td>
-
+</tr>
+ <tr valign="top">
 <td width="15%" align="center">
 
 <span>NodeJS</span><br><br>
@@ -68,9 +69,9 @@
 <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
 
 </td>
-</tr>
 
-<tr valign="top">
+
+
   
 <td width="15%" align="center">
 
