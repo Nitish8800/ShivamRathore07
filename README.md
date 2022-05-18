@@ -28,7 +28,7 @@
 
 <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+<img height="60px" src="https://cdn.svgporn.com/logos/html-5.svg">
 
 </td>
 
@@ -36,7 +36,7 @@
 
 <span>𝗖𝗦𝗦𝟯</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+<img height="60px" src="https://cdn.svgporn.com/logos/css-3.svg">
 
 </td>
 
@@ -44,7 +44,7 @@
 
 <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+<img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg">
 
 </td>
 
@@ -52,7 +52,7 @@
 
 <span>𝗥𝗲𝗮𝗰𝘁</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+<img height="60px" src="https://cdn.svgporn.com/logos/react.svg">
 
 </td>
 
@@ -64,7 +64,7 @@
 
 <span>NodeJS</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+<img height="60px" src="https://cdn.svgporn.com/logos/nodejs.svg">
 
 </td>
 
@@ -72,7 +72,7 @@
 
 <span>Express</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+<img height="60px" src="https://cdn.svgporn.com/logos/express.svg">
 
 </td>
 
@@ -80,7 +80,7 @@
 
 <span>Mongodb</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+<img height="60px" src="https://cdn.svgporn.com/logos/mongodb.svg">
 
 </td>
 
@@ -88,7 +88,7 @@
 
 <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+<img height="60px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
 
 </td>
 
@@ -100,7 +100,7 @@
 
 <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+<img height="60px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 
 </td>
 
@@ -108,7 +108,7 @@
 
 <span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+<img height="60px" src="https://cdn.svgporn.com/logos/redux.svg">
 
 </td>
 
@@ -116,7 +116,7 @@
 
 <span>𝗚𝗶𝘁</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+<img height="60px" src="https://cdn.svgporn.com/logos/git-icon.svg">
 
 </td>
 
@@ -124,7 +124,7 @@
 
 <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+<img height="60px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
 
 </td>
 
@@ -137,7 +137,7 @@
 <h3>Connect with me :  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-rathore-731a6619b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<!--   <a href="https://twitter.com/Nitishk60487582"><img src="https://img.shields.io/badge/twitter-1c9ceb?style=for-the-badge&logo=twitter&logoColor=white"></a> -->
+
   <a href="https://www.instagram.com/_shivam_rathore07_/"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 <hr />
