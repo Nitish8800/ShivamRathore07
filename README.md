@@ -88,7 +88,7 @@
 
 <span>Material Ui</span><br><br>
 
-<img height="60px" src="[https://cdn.svgporn.com/logos/tailwindcss-icon.svg](https://v4.material-ui.com/static/logo.png)">
+<img height="60px" src="[[https://cdn.svgporn.com/logos/tailwindcss-icon.svg](https://v4.material-ui.com/static/logo.png)](https://mui.com/static/logo.png)">
 
 </td>
 
