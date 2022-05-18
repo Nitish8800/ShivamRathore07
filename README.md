@@ -86,9 +86,9 @@
 
 <td width="25%" align="center">
 
-<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
+<span>Material Ui</span><br><br>
 
-<img height="60px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+<img height="60px" src="[https://cdn.svgporn.com/logos/tailwindcss-icon.svg](https://v4.material-ui.com/static/logo.png)">
 
 </td>
 
