@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [https://medium.com/@shivamrathoreji07](https://medium.com/@shivamrathoreji07)
 
-- 💬 Ask me about **Javascript , HTML , CSS , React ,Redux, Data structure & Algorithm , Bootstrap , Material-UI .**
+- 💬 Ask me about **Javascript , HTML , CSS , React.js , Redux, Mongodb, Express, Node.js, Bootstrap .**
 
 - 📫 How to reach me LinkedIn **https://www.linkedin.com/in/shivam-rathore-731a6619b/**
 
