@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivam Rathore</h1>
 
-- 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
+- 🌱 I’m currently learning **MERN Stack**<img src="https://media2.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952xul589f9lfg7rlks48hjmgqo3sk5yrg19wfthfma&rid=giphy.gif&ct=s" width="30px">
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivamRathore07](https://github.com/ShivamRathore07)
 
