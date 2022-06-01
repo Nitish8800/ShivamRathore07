@@ -1,4 +1,8 @@
- [![MasterHead]( https://i.ibb.co/d2PC1SM/Brown-Wood-Minimalist-Profile-Linked-In-Banner.gif)](https://github.com/akshit3010)
+[![MasterHead](https://user-images.githubusercontent.com/99672087/171448949-71f0f1a0-9a0f-4bce-8fa3-28edaad9ba02.gif)](https://github.com/ShivamRathore07)
+ 
+
+  
+<!--  https://user-images.githubusercontent.com/99672087/171448949-71f0f1a0-9a0f-4bce-8fa3-28edaad9ba02.gif  -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Shivam Rathore</h1>
 
 <h3 align="center">A Full Stack Developer in the process.</h3>
