@@ -22,11 +22,13 @@
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
 
-- 📫 How to reach me **akshitrana21@gmail.com**
+- 📫 How to reach me **shivamrathoreji07@gmail.com**
+ 
+- 📫 How to reach me LinkedIn **https://www.linkedin.com/in/shivam-rathore-731a6619b/**
 
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
