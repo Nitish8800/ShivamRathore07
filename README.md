@@ -1,6 +1,6 @@
 [![Shivam Rathore ,I'm a passionate Full Stack Developer from India.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20passionate%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Shivam%20Rathore%20)](https://www.linkedin.com/in/shivam-rathore-731a6619b/)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="10px" width="10px">, I'm Shivam Rathore</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Shivam Rathore</h1>
 
 - 🌱 I’m currently learning **MERN Stack** 
 
