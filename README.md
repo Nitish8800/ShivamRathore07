@@ -1,6 +1,4 @@
 [![MasterHead](https://user-images.githubusercontent.com/99672087/171448949-71f0f1a0-9a0f-4bce-8fa3-28edaad9ba02.gif)](https://github.com/ShivamRathore07)
- 
-
   
 <!--  https://user-images.githubusercontent.com/99672087/171448949-71f0f1a0-9a0f-4bce-8fa3-28edaad9ba02.gif  -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Shivam Rathore</h1>
@@ -15,13 +13,13 @@
 <img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
 </p>
 
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://github.com/akshit3010)
+[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://github.com/ShivamRathore07)
 <br/>
 <br/>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshit3010&label=Profile%20views&color=0e75b6&style=flat" alt="akshitrana" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivamRathore&label=Profile%20views&color=0e75b6&style=flat" alt="shivamrathore" /> </p>
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
