@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/d2PC1SM/Brown-Wood-Minimalist-Profile-Linked-In-Banner.gif)](https://github.com/ShivamRathore07)
+[![MasterHead]( https://i.ibb.co/d2PC1SM/Brown-Wood-Minimalist-Profile-Linked-In-Banner.gif )](https://github.com/ShivamRathore07)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Shivam Rathore</h1>
 
