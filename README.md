@@ -21,15 +21,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShivamRathore&label=Profile%20views&color=0e75b6&style=flat" alt="shivamrathore" /> </p>
 
-- 🔭 I’m currently pursuing **Full Stack Web Development**
-
-- 🌱 I’m currently learning **Backend**
+- 🔭 I’m **Full Stack Web Developer**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
 
 - 📫 How to reach me **shivamrathoreji07@gmail.com**
  
-- 📫 How to reach me LinkedIn **https://www.linkedin.com/in/shivam-rathore-731a6619b/**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/shivam-rathore-731a6619b/)
+
+- ⚡ My Portfolio - **[Shivam Rathore](https://shivam-rathore-portfolio.vercel.app/)**
 
 - ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
 
