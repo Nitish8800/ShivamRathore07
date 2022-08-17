@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **shivamrathoreji07@gmail.com**
  
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/shivam-rathore-731a6619b/)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/shivam-rathore-731a6619b/)
 
 - ⚡ My Portfolio - **[Shivam Rathore](https://shivam-rathore-portfolio.vercel.app/)**
 
