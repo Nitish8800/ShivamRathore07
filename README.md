@@ -23,7 +23,7 @@
 
 - 🔭 I’m **Full Stack Web Developer**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
+- 💬 Ask me about **HTML, CSS, JavaScript, MERN & DSA**
 
 - 📫 How to reach me **shivamrathoreji07@gmail.com**
  
