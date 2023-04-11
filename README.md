@@ -3,7 +3,7 @@
 <!--  https://user-images.githubusercontent.com/99672087/171448949-71f0f1a0-9a0f-4bce-8fa3-28edaad9ba02.gif  -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Shivam Rathore</h1>
 
- <h3 align="center">I am a self-motivated Full-stack Web developer 🤓 who loves to work in a challenging environment ✨. I love to face new problems and come up with a solution from out of the box 💥. </h3>
+ <h3 align="center">A self-motivated Full-stack Web developer 🤓 who loves to work in a challenging environment ✨. love to face new problems and come up with a solution from out of the box 💥. </h3>
 
 <p align= "center">
 <img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
