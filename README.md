@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
 </p>
 
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://github.com/ShivamRathore07)
+<!-- [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://github.com/ShivamRathore07) -->
 <br/>
 <br/>
 
@@ -70,8 +70,6 @@
 <a href="https://github.com/ShivamRathore07/github-readme-streak-stats"><img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamRathore07&theme=black-ice&hide_border=true&bg_color=0D1117&stroke=0000&background=060A0CD0"/></a>
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivamRathore07&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="shivamrathore07" /></p>
- 
- <a href="https://github.com/ShivamRathore07/github-readme-activity-graph"><img alt="Shivam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShivamRathore07&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
